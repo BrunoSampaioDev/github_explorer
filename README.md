@@ -7,7 +7,7 @@
         <a href="https://nextlevelweek.com/">
         <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" /></a>
         <img src="https://img.shields.io/badge/platform-web-blueviolet" alt="Project Platform" />
-        <a href="https://nlw4moveit-p6fhlbbtu-brunosampaiodev.vercel.app/"><img src="https://img.shields.io/badge/deploy-vercel-brightgreen" alt="Deploy link" /></a>
+        <a href="https://githubexplorer-indol.vercel.app/"><img src="https://img.shields.io/badge/deploy-vercel-brightgreen" alt="Deploy link" /></a>
         <a href="https://github.com/BrunoSampaioDev/React-Movit-project-nlw4/blob/main/LICENSE"><img src="https://img.shields.io/badge/licence-MIT-red" alt="Repo License" /></a>
     </p>
     <p>
