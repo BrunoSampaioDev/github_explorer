@@ -19,11 +19,11 @@
 
 # About
 
-Have you ever stopped to think how long you stay on your computer screen without doing any kind of exercise? The moveit will help you in this regard, you can determine a certain time to do a physical exercise for your beautiful body.
+Save and access your favorite repositories in a quick and practical way. The repositories will be saved in your browser's local storage and can be removed whenever you want.
 
 <div align="center">
-    <img src="/.github/login.png" width="700" /> <img src="/.github/start.png" width="700" /> <img src="/.github/desafio.png" width="700" />
-    <img src="/.github/levelup.png" width="700" />
+    <img src="/.github/print1.png" width="700" /> <img src="/.github/02.gif" width="700" /> <img src="/.github/01.gif" width="700" />
+    <img src="/.github/print2.png" width="700" />
 </div>
 
 # Techs
@@ -55,6 +55,6 @@ Have you ever stopped to think how long you stay on your computer screen without
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2021-present, Bruno Sampaio.</sub>
-  <p>Move.it <a href="https://github.com/BrunoSampaioDev/React-Movit-project-nlw4/blob/main/LICENSE">is MIT licensed 💖</a></p>
-  <img src="/public/favicon.png" width="35" />
+  <p>github_explorer <a href="https://github.com/BrunoSampaioDev/github_explorer/blob/add-license-1/LICENSE">is MIT licensed 💖</a></p>
+  <img src="./.github/logo.svg" width="35" />
 </div>
