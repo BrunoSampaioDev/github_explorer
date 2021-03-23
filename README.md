@@ -45,7 +45,7 @@ Save and access your favorite repositories in a quick and practical way. The rep
 
 # Authors
 
-- [Bruno Sampaio](https://github.com/zevdvlpr)
+- [Bruno Sampaio](https://github.com/BrunoSampaioDev)
 
 <br>
 <br>
